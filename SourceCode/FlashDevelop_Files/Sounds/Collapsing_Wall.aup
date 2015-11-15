@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Collapsing_Wall_data" version="1.3.0" audacityversion="2.0.3" sel0="0.0240000000" sel1="0.0240000000" vpos="0" h="0.0000000000" zoom="575.1757812500" rate="44100.0">
+	<tags>
+		<tag name="GENRE" value="Blues"/>
+		<tag name="ARTIST" value="SoundBible.com"/>
+		<tag name="TITLE" value="bomb"/>
+	</tags>
+	<wavetrack name="Bomb-SoundBible.com-891110113" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26240">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c53.au" len="26240" min="-0.963534" max="0.977518" rms="0.173532"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.594988662132" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="1.03880952">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42963">
+				<waveblock start="0">
+					<simpleblockfile filename="e000081a.au" len="42963" min="-0.282035" max="0.274857" rms="0.023534"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="0.59501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19571">
+				<waveblock start="0">
+					<simpleblockfile filename="e000029b.au" len="19571" min="-0.375756" max="0.278028" rms="0.025869"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bomb-SoundBible.com-891110113" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26240">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001af.au" len="26240" min="-0.963534" max="0.977608" rms="0.173541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.594988662132" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="1.03880952">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42963">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000928.au" len="42963" min="-0.640491" max="0.605999" rms="0.046864"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="0.59501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19571">
+				<waveblock start="0">
+					<simpleblockfile filename="e000015b.au" len="19571" min="-0.684612" max="0.609843" rms="0.039171"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
